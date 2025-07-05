@@ -182,7 +182,7 @@ Ragnaroc is an ambitious experiment. We are actively seeking contributors to hel
 
 ### 🏛️ Our Philosophy & Special Thanks
 
-This project is AI-generated code built upon a bedrock of rigorous software engineering mandates. We believe *how* software is built is as important as *what* it does. You can read about our non-negotiable standards in [**RAGNAROC_PRINCIPLES.md**](./RAGNAROC_PRINCIPLES.md) and [**RAGNAROC_MASTER_PROMPT.md**](./RAGNAROC_MASTER_PROMPT.md).
+This project is AI-generated code built upon a bedrock of rigorous software engineering mandates. We believe *how* software is built is as important as *what* it does. You can read about our non-negotiable standards in [**RAGNAROC_PRINCIPLES.md**](./RAGNAROC_PRINCIPLES.md) and [**RAGNAROC_PROMPT.md**](./RAGNAROC_PROMPT.md).
 
 A special thanks to the teams behind the tools and ideas that made this possible:
 
