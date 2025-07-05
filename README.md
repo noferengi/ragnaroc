@@ -41,7 +41,7 @@ The easiest way to get a full Ragnaroc instance running is with Docker.
 1.  **Prerequisites:** Git, Docker, Docker Compose
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/noferengi/ragnaroc.git](https://github.com/noferengi/ragnaroc.git)
+    git clone https://github.com/noferengi/ragnaroc.git
     cd ragnaroc
     ```
 3.  **Configure:**
@@ -68,7 +68,7 @@ For development or custom deployments, you can install Ragnaroc manually.
 1.  **Prerequisites:** Python 3.10+, Git
 2.  **Clone and Set Up Environment:**
     ```bash
-    git clone [https://github.com/noferengi/ragnaroc.git](https://github.com/noferengi/ragnaroc.git)
+    git clone https://github.com/noferengi/ragnaroc.git
     cd ragnaroc
     python -m venv venv
     source venv/bin/activate
@@ -107,7 +107,7 @@ For development or custom deployments, you can install Ragnaroc manually.
 7.  **Use the CLI:**
     In a new terminal (with the `venv` activated), you can use the CLI to interact with the service.
     ```bash
-    ragnaroc update --repo-url [https://github.com/your/repo](https://github.com/your/repo)
+    ragnaroc update --repo-url https://github.com/your/repo
     ragnaroc query "What functions call the main database connection?"
     ```
 
