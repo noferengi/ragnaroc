@@ -170,9 +170,7 @@ graph LR
 
 ### 🌌 The Grand Design: Memory for the Machines
 
-At this time, our project is NOT YET RELEASED TO THE PUBLIC, we offer NO SUPPORT, and we are in a stage of development that this project SHOULD NOT BE USED BY ANYONE.
-
-We welcome contributors who share our passion for building robust, intelligent, and well-engineered software.
+We welcome contributors who share our passion for building robust, intelligent, and well-engineered software. Please review [**RAGNAROC_CONTRIBUTING.md**](./RAGNAROC_CONTRIBUTING.md) for information on how.
 
 ### 🤝 Join the Mission: Let's Make Our Repos Smarter -- We Need Your Expertise
 
@@ -184,7 +182,7 @@ Ragnaroc is an ambitious experiment. We are actively seeking contributors to hel
 
 ### 🏛️ Our Philosophy & Special Thanks
 
-This project is AI-generated code built upon a bedrock of rigorous software engineering mandates. We believe *how* software is built is as important as *what* it does. You can read about our non-negotiable standards in [**PRINCIPLES.md**](./PRINCIPLES.md).
+This project is AI-generated code built upon a bedrock of rigorous software engineering mandates. We believe *how* software is built is as important as *what* it does. You can read about our non-negotiable standards in [**RAGNAROC_PRINCIPLES.md**](./RAGNAROC_PRINCIPLES.md) and [**RAGNAROC_MASTER_PROMPT.md**](./RAGNAROC_MASTER_PROMPT.md).
 
 A special thanks to the teams behind the tools and ideas that made this possible:
 
