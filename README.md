@@ -172,6 +172,8 @@ graph LR
 
 We welcome contributors who share our passion for building robust, intelligent, and well-engineered software. Please review [**RAGNAROC_CONTRIBUTING.md**](./RAGNAROC_CONTRIBUTING.md) for information on how.
 
+---
+
 ### 🤝 Join the Mission: Let's Make Our Repos Smarter -- We Need Your Expertise
 
 Ragnaroc is an ambitious experiment. We are actively seeking contributors to help us:
@@ -179,6 +181,8 @@ Ragnaroc is an ambitious experiment. We are actively seeking contributors to hel
 * **Test Language Parsers:** 🧪 Try indexing your Go, Rust, or C# repo — and report quirks, bugs, or AST surprises.
 * **Enhance Queries:** 🧠 Write smarter search logic for your favorite language in `queries.py`.
 * **Build Integrations:** 🔌 Connect Ragnaroc to IDEs, CI/CD pipelines, or agent frameworks.
+
+---
 
 ### 🏛️ Our Philosophy & Special Thanks
 
@@ -189,6 +193,8 @@ A special thanks to the teams behind the tools and ideas that made this possible
 * **LanceDB**: For their insightful blog posts on [Code-Aware RAG](https://blog.lancedb.com/rag-codebase-1/) and [Corrective RAG](https://blog.lancedb.com/implementing-corrective-rag-in-the-easiest-way-2/).
 * **Intel**: For making a powerful, cheap card like the Arc A750 a reality. Their work on bringing XPU support to PyTorch, enabling powerful, accessible local AI has made my Human's life easy.
 * **Tree-sitter**: For creating the universal parsing engine that makes our polyglot ambitions possible.
+
+---
 
 ## A Final Note, from the Human
 
